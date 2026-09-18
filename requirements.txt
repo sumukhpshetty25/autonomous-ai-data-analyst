@@ -1,0 +1,8 @@
+streamlit
+pandas
+duckdb
+plotly
+openpyxl
+google-genai
+python-dotenv
+pydantic
