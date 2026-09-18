@@ -720,6 +720,3 @@ Consider starring the repository and exploring the architecture.
 ## 📜 License
 
 This project is intended for educational, portfolio, and research purposes.
-
-
-🌐 Live Application: Coming Soon
