@@ -8,7 +8,7 @@ Instead of simply generating a SQL query, the system performs a multi-step analy
 
 ## 🚀 Live Demo
 
-🌐 **Live Application:** Coming Soon
+🌐 **Live Application:** https://autonomous-ai-data-analyst-n3cfugv82h6b6gxosugagt.streamlit.app/
 
 📂 **GitHub Repository:** This repository
 
